@@ -1,6 +1,6 @@
 # Golang Skeleton
 
-Golang application skeleton by Modal Rakyat Indonesia. 
+Golang  application- skeleton by Modal Rakyat Indonesia.
 
 ## Table of Contents
 
